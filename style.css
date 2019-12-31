@@ -1,0 +1,9 @@
+.form,
+.gretting{
+  display:none;
+
+}
+
+.show{
+  display:block;
+}
